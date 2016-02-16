@@ -1,0 +1,34 @@
+# ignore .o files
+*.o
+
+# ignore zip files
+*.zip
+
+# ignore image files
+*.bmp
+*.jpg
+*.gif
+
+# ignore src4m
+src4m/
+
+# ignore compiled files
+pset1/greedy
+pset1/hello
+pset1/mario
+pset2/caesar
+pset2/initials
+pset2/vigenere
+pset3/breakout/breakout
+pset3/find/find
+pset3/find/generate
+pset4/bmp/copy
+pset4/bmp/resize
+pset4/bmp/whodunit
+pset4/jpg/recover
+pset5/speller
+pset6/server
+pset7/public/fonts
+pset7/public/img
+pset8/public/fonts
+pset8/public/img
